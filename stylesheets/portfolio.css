@@ -60,10 +60,19 @@
     background-size: cover;
   }
   .col-sm-4 {
-      margin-top: 100px;
+      margin-top: 180px;
       
   }
 
+
+  .container {
+    background: linear-gradient(45deg, rgba(75, 74, 74, 0.7), rgba(0,0,0,0.7));
+    
+  }
+
+  p {
+    font-size: 15px;
+  }
 
     
   
