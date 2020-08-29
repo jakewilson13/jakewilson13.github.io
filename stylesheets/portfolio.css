@@ -48,7 +48,17 @@
     line-height: 65px;
     font-size: 2.4rem;
   }
-  
+  @media only screen and (max-width: 418px) {
+    .nav div.main_list ul li a {
+      font-size: 2rem;
+    }
+  }
+
+  @media only screen and (max-width: 380px) {
+    .nav div.main_list ul li a {
+      font-size: 1.5rem;
+    }
+  }
   .nav div.main_list ul li a:hover {
     color: gray;
   }
