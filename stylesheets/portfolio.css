@@ -75,7 +75,7 @@
   }
 
 
-  .container {
+  #apps {
     background: linear-gradient(45deg, rgba(75, 74, 74, 0.7), rgba(0,0,0,0.7));
     
   }
