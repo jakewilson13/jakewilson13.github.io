@@ -188,9 +188,8 @@ header .logo
   }
   .text h2
   {
-    font-size: 3em;
     text-align: center;
-    padding: 47;
+    padding: 0;
   }
   .text h3
   {
