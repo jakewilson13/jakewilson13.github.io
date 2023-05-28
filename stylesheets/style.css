@@ -82,6 +82,13 @@ header .logo
   z-index: 10;
 }
 
+@media (max-width: 990px) {
+  .text {
+    text-align: left;
+    padding-left: 10px;
+  }
+}
+
 .text h2
 {
   font-size: 5em;

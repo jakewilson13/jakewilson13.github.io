@@ -1,1 +1,1 @@
-# portfolio
+This is my portfolio with all of my personal updated work listed. All of my work links directly to the specific repositories, see the contact page if you'd like to contact me directly.
